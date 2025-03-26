@@ -1,2 +1,2 @@
 # oldmouseclick-homepage
-Repository of [oldmouse.click](oldmouse.click).
+Repository of [oldmouse.click](http://oldmouse.click/).
