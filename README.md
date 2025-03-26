@@ -1,2 +1,2 @@
 # oldmouseclick-homepage
-Website of oldmouseclick.
+Repository of [oldmouse.click](oldmouse.click).
